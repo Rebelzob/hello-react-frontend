@@ -18,13 +18,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 **Rails Hello World Frontend** <a name="about-project"></a>
+# 📖 **Hello React Frontend** <a name="about-project"></a>
 
-- **React - Hello World - Frontend:** This is the frontend of the Hello World project, built with React.
+- **Hello React Frontend:** This is the frontend of the Hello World project, built with React.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-<a href="https://github.com/Rysth/hello-rails-back-end">See the Rails Application</a>
+<a href="https://github.com/Rebelzob/hello-rails-backend">See the Rails Application</a>
 
 - HTML
 - CSS
@@ -35,14 +35,15 @@
 
 - 🚀 See random messages from the API
 - 🌟 Basic UI built with TailwindCSS
+- 📝 Create new messages
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rysth/hello-react-front-end.git
-   cd hello-react-front-end
+   git clone https://github.com/Rebelzob/hello-react-frontend
+   cd hello-react-frontend
    code .  # To open VS Code Editor
    ```
 
@@ -51,8 +52,6 @@
 ### Commands
 
 - **npm start:** Run the app in development mode.
-- **npm test:** Launch the test runner.
-- **npm run build:** Build the app for production.
 
 ### Linters <a name="linters"></a>
 
@@ -72,16 +71,16 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **John Palacios**
+👤 **Karim Barragan**
 
-- GitHub: [@rysthcraft](https://github.com/Rysth)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-palacios-rysthcraft)
+- GitHub: [Karim Barragan](https://github.com/Rebelzob)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/karim-barragan/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Implement CRUD functionality for Messages**: Develop a comprehensive CRUD (Create, Read, Update, Delete) application, enabling efficient management and manipulation of message data within the system.
+- [ ] **Implement CRUD functionality for Messages**: Create, Read, Update and Delete messages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +98,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thanks to my family members for supporting me during Microverse, and their team.
+- [Microverse](https://www.microverse.org/)
+I would like to thank the Microverse organization for providing the curriculum and the opportunity to learn and develop my skills.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
